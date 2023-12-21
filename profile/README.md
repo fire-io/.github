@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This org contains all my repos to `FIRE`. 
+An engine to consistently generate profit
